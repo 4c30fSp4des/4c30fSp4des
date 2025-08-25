@@ -1,2 +1,21 @@
-# aceofspades-readme
-My README.md
+<h2 align="left">Hi! I'm 4ce 👋</h2>
+
+###
+
+I'm currently interested in Machine learning, Game Development, and Cybersecurity!!
+
+
+###
+
+<div align="center">
+  <img src="https://streak-stats.demolab.com?user=4c30fSp4des&locale=en&mode=daily&theme=github_dark&hide_border=true&border_radius=5" height="150" alt="streak graph"  />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=4c30fSp4des&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=github_dark&hide_border=true" height="150" alt="languages graph"  />
+</div>
+
+###
+
+<div align="center">
+  <img height="200" src="https://i.imgur.com/XbiZX6z.png"  />
+</div>
+
+###
