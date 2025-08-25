@@ -1,8 +1,8 @@
-<h2 align="left">Hi! I'm 4ce 👋</h2>
+<h2 align="left">hellooo im ace :)</h2>
 
 ###
 
-I'm currently interested in Machine learning, Game Development, and Cybersecurity!!
+I'm currently interested in Machine learning (AI), Game Development, and Cybersecurity!!
 
 
 ###
@@ -19,4 +19,8 @@ I'm currently interested in Machine learning, Game Development, and Cybersecurit
   stare.
 </div>
 
-###
+
+
+
+
+ace is not my real name btw lol
