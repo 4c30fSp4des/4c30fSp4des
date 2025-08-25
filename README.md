@@ -15,7 +15,8 @@ I'm currently interested in Machine learning, Game Development, and Cybersecurit
 ###
 
 <div align="center">
-  <img height="200" src="https://i.imgur.com/XbiZX6z.png"  />
+  <img src="https://raw.githubusercontent.com/4c30fSp4des/aceofspades-readme/refs/heads/main/stare.jpeg"  />
+  stare.
 </div>
 
 ###
