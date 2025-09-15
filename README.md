@@ -18,11 +18,15 @@ I'm currently interested in Machine learning (AI), Game Development, and Cyberse
 
 <div align="center">
   <img src="https://raw.githubusercontent.com/4c30fSp4des/aceofspades-readme/refs/heads/main/stare.jpeg"  />
-  stare.
+</div>
+
+<div align="center">
+stare.
 </div>
 
 
 
 
-
+<div align="center">
 ace is not my real name btw lol
+</div>
